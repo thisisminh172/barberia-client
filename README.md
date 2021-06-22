@@ -1,3 +1,4 @@
+link tham khao: https://www.free-css.com/free-css-templates/page253/style-barber
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
